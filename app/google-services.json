@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455527771089",
+    "project_id": "appcontrol-892c8",
+    "storage_bucket": "appcontrol-892c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455527771089:android:56c1a3f7ab72ff2c3f4ef0",
+        "android_client_info": {
+          "package_name": "com.example.appcontrolautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455527771089-ffhn18pdvcml0c8agrtsf6tfa2ocpfrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0sJZwZONevIME7xwGckNkYWmeRLlu4DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455527771089-ffhn18pdvcml0c8agrtsf6tfa2ocpfrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
