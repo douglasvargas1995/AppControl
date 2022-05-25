@@ -9,6 +9,7 @@ public class ConfiguracaoFirebase {
     private static DatabaseReference database;
     private static FirebaseAuth mAuth;
 
+    ///criar database firestore
     public static DatabaseReference getFirebaseDatabase(){
         if(database==null){
             database = FirebaseDatabase.getInstance().getReference();
